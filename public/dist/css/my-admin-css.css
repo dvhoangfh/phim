@@ -1,0 +1,22 @@
+.pullleft{
+	float: left !important;
+} 
+
+.sidebar-mini.sidebar-collapse .content-wrapper{
+	margin-left: 0px !important;
+}
+
+.sidebar-mini.sidebar-collapse .main-footer{
+	margin-left: 0px !important;
+}
+.admin-menu{
+	display: none;
+}
+
+.dropdown-list a{
+	color:#000;
+}
+
+.dropdown-list li{
+	border-bottom: 1px solid #d7cbe2;
+}
